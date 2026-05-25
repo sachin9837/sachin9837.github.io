@@ -2,6 +2,8 @@
 
 Modern personal portfolio for Sachin Pathak, built from resume-extracted information and focused on enterprise AI, Azure OpenAI, RAG, cloud data engineering, Azure Databricks, PySpark, and production-grade engineering delivery.
 
+Production GitHub Pages target: `https://psachin84453.github.io/`
+
 ## Features
 
 - React + TypeScript + Tailwind CSS single-page portfolio
@@ -98,7 +100,7 @@ git init
 git add .
 git commit -m "Initial portfolio website"
 git branch -M main
-git remote add origin https://github.com/<your-username>/sachin-pathak-portfolio.git
+git remote add origin https://github.com/psachin84453/psachin84453.github.io.git
 git push -u origin main
 ```
 
